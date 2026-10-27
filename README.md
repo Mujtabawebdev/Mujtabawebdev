@@ -134,34 +134,7 @@ Google Gemini
 
 AI Response
 
----
-
-## 📸 Instagram Clone
-
-A full-stack social media platform featuring:
-
-- Authentication
-- Posts
-- Likes
-- Comments
-- Follow System
-- Real-time Notifications
-- Media Uploads
-
----
-
-## 🎓 Student & Teacher Management System
-
-Features
-
-- JWT Authentication
-- Role-based Dashboards
-- Email Notifications
-- Real-time Updates
-- Student Records
-- Teacher Portal
-
----
+----
 
 # 📚 Currently Learning
 
